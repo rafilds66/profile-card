@@ -3,7 +3,7 @@
 body{
     background-color: hsl(185, 75%, 39%);
     height: 100vh;
-    font-family: 'Kumbh', sans-serif;
+    font-family: 'Kumbh Sans', sans-serif;
     font-size: 18px;
 }
 
@@ -52,6 +52,10 @@ hr{
     width: 100%;
     padding-bottom: 10px;
     text-align: center;
+}
+
+.contador{
+    font-weight: 600;
 }
 
 .numeros-do-perfil .informacoes-perfil .contador,
