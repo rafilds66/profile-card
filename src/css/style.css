@@ -54,11 +54,7 @@ hr{
     text-align: center;
 }
 
-.contador{
-    font-weight: 600;
-}
-
-.numeros-do-perfil .informacoes-perfil .contador,
+.numeros-do-perfil .informacoes .contador,
 .cartao .informacoes-perfil p{
     font-weight: 700;
 }
